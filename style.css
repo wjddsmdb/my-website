@@ -1,0 +1,20 @@
+header {
+    background-color: #4f7cac;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+}
+
+
+.card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
